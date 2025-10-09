@@ -1,4 +1,3 @@
-
 *{
     text-align: center;
     font-family: "Playfair Display", serif;
@@ -17,13 +16,8 @@ img{
 .ürünler{
   font-size: 2rem
 }
-    
 
-#bizeulaşın{
+.bilgi{
     font-size: 20px;
     text-align: left;
-}
-
-#hakkimizda{
-    text-align:left
 }
