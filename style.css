@@ -1,13 +1,29 @@
-*{
-  text-align: center;
-}
 
-#niche{
-    height: 500px;
-    width: 330px;
+*{
+    text-align: center;
+    font-family: "Playfair Display", serif;
 }
 
 img{
     height: 500px;
     width: 330px;
+}
+
+#niche{
+    height: 500px;
+    width: 500px;
+}
+
+.ürünler{
+  font-size: 2rem
+}
+    
+
+#bizeulaşın{
+    font-size: 20px;
+    text-align: left;
+}
+
+#hakkimizda{
+    text-align:left
 }
