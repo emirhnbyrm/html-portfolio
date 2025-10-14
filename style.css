@@ -1,23 +1,71 @@
-*{
+* {
     text-align: center;
     font-family: "Playfair Display", serif;
+    margin: 0px;
+    padding: 0px;
 }
 
-img{
+.basliklar{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.ikinci-kisim {
+    object-fit: cover;
+    background-color: #000000
+    /* display: block;
+    margin: 0 auto;      
+    padding: 0;
+    border: none;
+    max-width: 100%;     
+    height: auto;  */
+    
+}
+
+#nichee {
+    color: white;
+}
+
+img {
     height: 500px;
     width: 330px;
 }
 
-#niche{
+#niche {
     height: 500px;
     width: 500px;
 }
 
-.ürünler{
+.ürünler {
   font-size: 2rem
 }
 
-.bilgi{
-    font-size: 20px;
+.bilgi {
     text-align: left;
+}
+
+#urunlerimiz {
+    text-align: left;
+    background-color: #181C14;
+    border: 1px solid white;
+    padding: 20px;
+}
+
+.paytak-background {
+    background-color: #181C14;
+}
+
+.panda-background {
+    background-color: #3C3D37;
+}
+
+.uzanan-panda-background {
+    background-color: #000000;
+}
+
+.bilgisel {
+    background-color: blanchedalmond;
 }
